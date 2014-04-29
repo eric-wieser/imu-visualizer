@@ -1,0 +1,15 @@
+{
+  "name": "imu-visualizer",
+  "version": "0.0.1",
+  "main": "index.html",
+  "dependencies": {
+    "serialport": ""
+  },
+  "window": {
+    "frame": true,
+    "width": 800,
+    "height": 400,
+    "toolbar": true,
+    "position": "center"
+  }
+}
